@@ -1,0 +1,37 @@
+[1mdiff --git a/_config.yml b/_config.yml[m
+[1mindex 2f03e74..9d95be5 100644[m
+[1m--- a/_config.yml[m
+[1m+++ b/_config.yml[m
+[36m@@ -1,14 +1,24 @@[m
+ # Site settings[m
+[31m-title: Your awesome title[m
+[31m-email: your-email@domain.com[m
+[32m+[m[32mtitle: Design Portfolio[m
+[32m+[m[32memail: mario@datamaw.com[m
+ description: > # this means to ignore newlines until "baseurl:"[m
+[31m-  Write an awesome description for your new site here. You can edit this[m
+[31m-  line in _config.yml. It will appear in your document head meta (for[m
+[31m-  Google search results) and in your feed.xml site description.[m
+[32m+[m[32m  Testing jekyll[m
+ baseurl: "" # the subpath of your site, e.g. /blog/[m
+[31m-url: "http://yourdomain.com" # the base hostname & protocol for your site[m
+[31m-twitter_username: jekyllrb[m
+[31m-github_username:  jekyll[m
+[32m+[m[32murl: "http://example.com" # the base hostname & protocol for your site[m
+[32m+[m[32mtwitter_username: noncasus[m
+[32m+[m[32mgithub_username:  noncasus[m
+[32m+[m
+[32m+[m[32mpermalink:  /:categories/:title[m
+[32m+[m
+[32m+[m[32mlinks:[m
+[32m+[m[32m  - title:  about[m
+[32m+[m[32m    url:    /about[m
+[32m+[m[32m  - title:  work[m
+[32m+[m[32m    url:    /work[m
+[32m+[m[32m  - title:  articles[m
+[32m+[m[32m    url:    /articles[m
+[32m+[m[32m  - title:  hire-me[m
+[32m+[m[32m    url:    /hire-me[m
+ [m
+ # Build settings[m
+ markdown: kramdown[m
