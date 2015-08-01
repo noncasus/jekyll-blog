@@ -1,9 +1,10 @@
 ---
 layout: post
-title:  "third post"
-date:   2015-07-25 22:00:00
-categories: jekyll update
-tags: security
+title:  "second project"
+date:   2015-07-31 15:00:00
+categories: project
+featured: true
+tags: seo
 ---
 
 # Discordibus praemia humus
