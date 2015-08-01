@@ -4,6 +4,7 @@ title:  "second project"
 date:   2015-07-31 15:00:00
 categories: project
 featured: true
+featured_image: "images/planning.png"
 tags: seo
 ---
 
