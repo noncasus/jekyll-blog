@@ -3,6 +3,7 @@ layout: post
 title:  "second post"
 date:   2015-07-25 20:00:00
 categories: jekyll update
+featured: true
 ---
 
 # Discordibus praemia humus
