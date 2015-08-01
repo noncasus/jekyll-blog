@@ -3,6 +3,7 @@ layout: post
 title:  "fourth post"
 date:   2015-07-25 23:00:00
 categories: jekyll update
+tags: fast
 ---
 
 # Coniecta non trunco gente
