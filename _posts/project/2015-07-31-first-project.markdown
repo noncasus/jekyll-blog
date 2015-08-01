@@ -3,7 +3,7 @@ layout: post
 title:  "first project!!"
 date:   2015-07-31 13:33:05
 categories: project
-featured_image: "images/cosmetics.png"
+featured_image: "/images/cosmetics.png"
 tags: design
 ---
 

@@ -6,6 +6,7 @@
     float:left;
     width: 50%;
     padding:0 3em 1em;
+    height: 315px;
     
     &:mth-chile(odd){
         clear:both;
@@ -25,5 +26,28 @@
     
     li{
         display:inline;
+    }
+}
+
+//  Single post page
+
+.post-header{
+    text-align:center;
+}
+.post-title{
+    margin:0;
+}
+.post-meta{
+    color: $blue-color;
+    font-size: $h4-font-size;
+}
+.post-body{
+    width: 90%;
+    max-width: 40em;
+    margin: $h2-font-size auto;
+    
+    h1, h2, h3, h4{
+        max-width: 80%;
+        margin: $h2-font-size auto;
     }
 }
